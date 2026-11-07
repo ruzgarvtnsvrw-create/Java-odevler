@@ -1,0 +1,2 @@
+# Java-odevler
+bilişim ödevleri
